@@ -1,23 +1,21 @@
-<!-- CSS only -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-
-<!-- JavaScript Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
-
 # Todolist
 <div>
     這個專案的目的是提供使用者能夠建立自己的代辦清單。由於專案本身並不複雜，所以使用者就算不看使用說明，也能夠很直覺地使用網站上提供的功能，但我仍然會在下面提供使用說明
 </div>
-
+<br>
+<br>
 
 <h2 style="color:red">備註</h2>
 如果你的電腦環境是使用 <span style="color:red">Apple 系列的作業系統(MacOS、iOS)、瀏覽器(Safari)</span>，那麼再創建任務時，日期選項有可能會沒辦法選，或者按下 Create 按鈕沒辦法建立任務。<br>
 <span style="color:blue">建議在Windows 作業系統、chrome 瀏覽器的條件下使用網站服務</span>
+<br>
+<br>
 
 ## 網站
 http://sifmowa-001-site1.etempurl.com/
 <br>
-
+<br>
+<br>
 
 ## 預覽
 ![screenshot](/imgs/Website_preview.png)
@@ -37,9 +35,9 @@ http://sifmowa-001-site1.etempurl.com/
         <h4>狀態</h4>
         <div>
             代辦任務分成 3 個狀態，並且每個狀態有各自的顏色<br>
-            1. <span style="color:blue">In-progress (進行中)</span> <br>
-            2. <span style="color:red">Failed (失敗)</span><br>
-            3. <span style="color:rgb(238, 221, 29)">Finished(完成)</span><br>
+            1. <span style="color:blue">In-progress (進行中、藍色)</span> <br>
+            2. <span style="color:red">Failed (失敗、紅色)</span><br>
+            3. <span style="color:rgb(238, 221, 29)">Finished(完成、黃色)</span><br>
         </div>
     </li>
     <li>
@@ -83,7 +81,7 @@ http://sifmowa-001-site1.etempurl.com/
 <br>
 <br>
 
-接著將滑鼠移到藍色按鈕<img src="imgs/create_button.png" width="6%">，並點下去，就會進入到創建任務的介面
+接著將滑鼠移到藍色按鈕<img src="imgs/create_button.png" width="30px">，並點下去，就會進入到創建任務的介面
 <br>
 ![screenshot](/imgs/CreateMission-1.png)
 <br>
@@ -91,6 +89,7 @@ http://sifmowa-001-site1.etempurl.com/
 <br>
 
 把該填的項目都填好，按下 Create 按鈕，就能創建任務了
+<br>
 [備註：選擇日期的時候，記得要按日期圖示![screenshot](/imgs/calender_icon.png)，才能跳出選單]
 <br>
 ![screenshot](/imgs/CreateMission-2.png)
@@ -105,7 +104,9 @@ http://sifmowa-001-site1.etempurl.com/
 <br>
 <br>
 
-任務的顏色是藍色的，代表還在進行中，任務的背面能夠告訴你距離期限還剩多少時間，移動滑鼠到任務上，按下左鍵，就會翻到背面去了
+任務的顏色是藍色的，代表還在進行中，任務的背面能夠告訴你距離期限還剩多少時間。
+<br>
+移動滑鼠到任務上，按下左鍵，就會翻到背面去了
 <br>
 ![screenshot](/imgs/Todolist_page-3.png)
 <br>
@@ -116,7 +117,7 @@ http://sifmowa-001-site1.etempurl.com/
 1. 再按一次左鍵
 2. 將滑鼠移動到任務框框外
 <br>
-![screenshot](/imgs/Todolist_page-2.png)
+<img src="/imgs/Todolist_page-2.png">
 <br>
 <br>
 <br>
@@ -125,6 +126,8 @@ http://sifmowa-001-site1.etempurl.com/
 
 這三個按鈕左到右的功能分別是：
 檢視、編輯、刪除。
+<br>
+<br>
 <br>
 
 檢視
