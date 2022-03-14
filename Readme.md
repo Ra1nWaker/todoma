@@ -7,6 +7,7 @@
 
 <h2 style="color:red">備註</h2>
 如果你的電腦環境是使用 <span style="color:red">Apple 系列的作業系統(MacOS、iOS)、瀏覽器(Safari)</span>，那麼再創建任務時，日期選項有可能會沒辦法選，或者按下 Create 按鈕沒辦法建立任務。<br>
+<br>
 <span style="color:blue">建議在Windows 作業系統、chrome 瀏覽器的條件下使用網站服務</span>
 <br>
 <br>
