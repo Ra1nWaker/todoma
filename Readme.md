@@ -89,7 +89,7 @@ http://sifmowa-001-site1.etempurl.com/
 
 接著將滑鼠移到藍色按鈕<img src="imgs/create_button.png" width="30px">，並點下去，就會進入到創建任務的介面
 <br>
-![screenshot](/imgs/CreateMission1.png)
+![screenshot](/imgs/CreateMission-1.png)
 <br>
 <br>
 <br>
