@@ -5,6 +5,16 @@
 <br>
 <br>
 
+## 預覽
+![screenshot](/imgs/Website_preview.png)
+
+## 網站
+http://sifmowa-001-site1.etempurl.com/
+<br>
+<br>
+<br>
+
+
 <h2 style="color:red">備註</h2>
 <h3>2022/3/23 Bug Fixed</h3>
 關於日期選擇器的瀏覽器相容性問題已經修復了
@@ -17,14 +27,9 @@
 <br>
 <br>
 
-## 網站
-http://sifmowa-001-site1.etempurl.com/
-<br>
-<br>
-<br>
 
-## 預覽
-![screenshot](/imgs/Website_preview.png)
+
+
 
 ## 特色
   <ul>
