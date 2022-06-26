@@ -9,7 +9,7 @@
 ![screenshot](/imgs/Website_preview.png)
 
 ## 網站
-http://sifmowa-001-site1.etempurl.com/
+http://timalen-001-site1.itempurl.com/
 <br>
 <br>
 <br>
@@ -101,7 +101,6 @@ http://sifmowa-001-site1.etempurl.com/
 
 把該填的項目都填好，按下 Create 按鈕，就能創建任務了
 <br>
-[備註：選擇日期的時候，記得要選未來的日期，任務狀態才會開始進行]
 <br>
 ![screenshot](/imgs/CreateMission-2.png)
 <br>
