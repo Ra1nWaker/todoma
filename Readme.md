@@ -5,6 +5,14 @@
 <br>
 <br>
 
+## 使用的程式語言和資料庫
+Html
+CSS
+Javascript
+Bootstrap
+jQuery
+
+
 ## 預覽
 ![screenshot](/imgs/Website_preview.png)
 
