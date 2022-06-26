@@ -5,12 +5,8 @@
 <br>
 <br>
 
-## 使用的程式語言和資料庫
-Html   CSS
-
-Javascript
-Bootstrap
-jQuery
+## 使用的語言和技術
+Html   CSS  Javascript Bootstrap jQuery C# ASP.NET MVC MSSQ
 
 
 ## 預覽
