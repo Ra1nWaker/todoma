@@ -51,13 +51,7 @@ http://timalen-001-site1.itempurl.com/
         </div>
     </li>
     <li>
-        <h4>建立任務</h4>
-    </li>
-    <li>
-        <h4>任務期限</h4>
-        <div>
-            在創建任務的時候，可以選擇這項任務的期限是幾月幾號
-        </div>
+        <h4>任務功能</h4>
     </li>
     <li>
         <h4>狀態</h4>
@@ -69,7 +63,7 @@ http://timalen-001-site1.itempurl.com/
         </div>
     </li>
     <li>
-        <h4>正反面</h4>
+        <h4>任務正反面</h4>
         <div>- 正面 </div>
         <div>
             顯示任務標題、內容、任務期限和功能列(檢視、編輯、刪除)
@@ -78,6 +72,12 @@ http://timalen-001-site1.itempurl.com/
         <div>- 反面 </div>
         <div>
             顯示任務狀態、距離期限還剩多少時間
+        </div>
+    </li>
+    <li>
+        <h4>分類欄</h4>
+        <div>
+            根據任務狀態、任務期限來顯示任務
         </div>
     </li>
   </ul>
