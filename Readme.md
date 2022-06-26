@@ -39,6 +39,18 @@ http://timalen-001-site1.itempurl.com/
 ## 特色
   <ul>
     <li>
+        <h4>會員系統</h4>
+        <div>
+            從 .NET 官方文件的原始碼導入、修改而成的
+        </div>
+    </li>
+    <li>
+        <h4>RWD 響應式網頁設計</h4>
+        <div>
+            用 Bootstrap 框架實現的
+        </div>
+    </li>
+    <li>
         <h4>建立任務</h4>
     </li>
     <li>
