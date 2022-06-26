@@ -6,8 +6,8 @@
 <br>
 
 ## 使用的程式語言和資料庫
-Html
-CSS
+Html   CSS
+
 Javascript
 Bootstrap
 jQuery
