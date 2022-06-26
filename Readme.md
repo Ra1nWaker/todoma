@@ -6,7 +6,7 @@
 <br>
 
 ## 使用的語言和技術
-Html   CSS  Javascript Bootstrap jQuery C# ASP.NET MVC MSSQ
+<h1>Html   CSS  Javascript Bootstrap jQuery C# ASP.NET MVC MSSQ </h1>
 
 
 ## 預覽
