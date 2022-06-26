@@ -114,9 +114,9 @@ http://timalen-001-site1.itempurl.com/
 <br>
 <br>
 
-任務的顏色是藍色的，代表還在進行中，任務的背面能夠告訴你距離期限還剩多少時間。
+任務的顏色是藍色的，代表還在進行中。移動滑鼠到任務上，按下左鍵，就會翻到背面去了
 <br>
-移動滑鼠到任務上，按下左鍵，就會翻到背面去了
+任務的背面能夠告訴你距離期限還剩多少時間。
 <br>
 ![screenshot](/imgs/Todolist_page-3.png)
 <br>
@@ -158,14 +158,14 @@ http://timalen-001-site1.itempurl.com/
 <br>
 <br>
 
-現在回到管理介面，再新增兩個任務(從左上方開始是最新建立的)
+現在回到管理介面，再新增兩個任務
 <br>
 ![screenshot](/imgs/Todolist_page-4.png)
 <br>
 <br>
 <br>
 
-從這裡開始，要示範如何改變任務狀態。首先要示範的是將狀態改成 "完成" 。按下 English 任務的編輯按鈕，接著就會進入編輯畫面，按下 Finished 選項，並按下 save
+從這裡開始，要示範如何改變任務狀態。首先要示範的是將狀態改成 "完成" 。隨便選擇一個任務，按下編輯按鈕，接著就會進入編輯畫面，按下 Finished 選項，並按下 save
 <br>
 ![screenshot](/imgs/English_Mission_Edit.png)
 <br>
@@ -179,7 +179,7 @@ http://timalen-001-site1.itempurl.com/
 <br>
 <br>
 
-接著要示範的是將狀態改成 "失敗" 。按下 Chinese 任務的編輯按鈕，接著就會進入編輯畫面，按下 Failed 選項，並按下 save
+接著要示範的是將狀態改成 "失敗" 。也是一樣，隨便選一個任務，按下編輯按鈕，接著就會進入編輯畫面，按下 Failed 選項，並按下 save
 <br>
 ![screenshot](/imgs/Chinese_Mission_Edit.png)
 <br>
