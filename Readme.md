@@ -20,7 +20,7 @@ http://timalen-001-site1.itempurl.com/
 <br>
 
 
-<h2 style="color:red">備註</h2>
+<h2>Bug 修復紀錄</h2>
 <h3>2022/3/23 Bug Fixed</h3>
 關於日期選擇器的瀏覽器相容性問題已經修復了
 <br>
@@ -54,7 +54,7 @@ http://timalen-001-site1.itempurl.com/
         <h4>任務功能</h4>
     </li>
     <li>
-        <h4>狀態</h4>
+        <h4>任務狀態</h4>
         <div>
             代辦任務分成 3 個狀態，並且每個狀態有各自的顏色<br>
             1. <span style="color:blue">In-progress (進行中、藍色)</span> <br>
@@ -72,6 +72,12 @@ http://timalen-001-site1.itempurl.com/
         <div>- 反面 </div>
         <div>
             顯示任務狀態、距離期限還剩多少時間
+        </div>
+    </li>
+    <li>
+        <h4>倒數計時功能</h4>
+        <div>
+            利用 javascript、jQuery 實作而成
         </div>
     </li>
     <li>
